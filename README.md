@@ -1,0 +1,1 @@
+A simple server on Node js (Express js) is used to work with photos (saving, deleting). For Next-store project. (https://github.com/oscherniavskii/next-store-psql)
